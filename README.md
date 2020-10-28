@@ -6,6 +6,8 @@ Currently, I am working at [Crate.IO GmbH](https://crate.io/).
 
 ### Things from my own pen and contributions to other projects
 
+Receiving contributions to any of them makes me happy. Enjoy!
+
 #### Data acquisition
 - [Kotori] - A flexible data historian based on InfluxDB, Grafana, MQTT and more.
 - [Terkin] - A datalogger for MicroPython and CPython.

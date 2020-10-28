@@ -14,28 +14,35 @@ Receiving contributions to any of them makes me happy. Enjoy!
 - [mqttwarn] - Subscribe to MQTT topics and notify pluggable services.
 
 #### Earth observations / Open Data
-- [wetterdienst] - Python Toolset For Accessing Weather Data From German Weather Service.
-- [luftdatenpumpe] - Process live and historical data from luftdaten.info, IRCELINE and OpenAQ. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into timeseries and RDBMS databases, publish to MQTT, output as JSON or visualize in Grafana. 
+- [Wetterdienst] - Python Toolset For Accessing Weather Data From German Weather Service.
+- [Luftdatenpumpe] - Process live and historical data from luftdaten.info, IRCELINE and OpenAQ. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into timeseries and RDBMS databases, publish to MQTT, output as JSON or visualize in Grafana. 
 - [phenodata] - A data acquisition and manipulation toolkit for open access phenology data.
 
 #### Grafana
-- [grafana-map-panel] - Fork of the original Grafana Worldmap Panel with improved convenience, robustness and features.
+- [Grafana Map Panel] - Fork of the original Grafana Worldmap Panel with improved convenience, robustness and features.
 - [grafanimate] - Animate timeseries data with Grafana.
 - [grafana-wtf] - Grep through all Grafana entities in the spirit of git-wtf.
 
 #### Misc
 - [PatZilla] - A modular patent information research platform and data integration toolkit with a modern user interface and access to multiple data sources.
+- [Vasuki] - Vasuki generates different kinds of random unique identifiers, tokens and words. Aims to make identifier generation effortless.
+- [Pycom MicroPython] - The firmware powering Pycom devices, a fork of MicroPython.
+- [Shaka Packager] - A media packaging and development framework for VOD and Live DASH and HLS applications, which is part of the infrastructure powering YouTube.
+
 
 [Kotori]: https://github.com/daq-tools/kotori
 [PatZilla]: https://github.com/ip-tools/patzilla
 [mqttwarn]: https://github.com/jpmens/mqttwarn
-[grafana-map-panel]: https://github.com/panodata/grafana-map-panel
-[wetterdienst]: https://github.com/panodata/wetterdienst
-[luftdatenpumpe]: https://github.com/panodata/luftdatenpumpe
+[Grafana Map Panel]: https://github.com/panodata/grafana-map-panel
+[Wetterdienst]: https://github.com/panodata/wetterdienst
+[Luftdatenpumpe]: https://github.com/panodata/luftdatenpumpe
 [grafanimate]: https://github.com/panodata/grafanimate
 [grafana-wtf]: https://github.com/panodata/grafana-wtf
 [phenodata]: https://github.com/hiveeyes/phenodata
 [Terkin]: https://github.com/hiveeyes/terkin-datalogger
+[Shaka Packager]: https://github.com/google/shaka-packager
+[Vasuki]: https://github.com/daq-tools/vasuki
+[Pycom MicroPython]: https://github.com/pycom/pycom-micropython-sigfox
 
 <!--
 **amotl/amotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

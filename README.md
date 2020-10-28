@@ -23,12 +23,16 @@ Receiving contributions to any of them makes me happy. Enjoy!
 - [grafanimate] - Animate timeseries data with Grafana.
 - [grafana-wtf] - Grep through all Grafana entities in the spirit of git-wtf.
 
+#### Discourse
+- [discodoc] - Create hardcopy-like documents from Discourse content easily.
+- [github-to-discourse] - Forward any 'push' webhooks it receives to a specified thread on a Discourse forum.
+
 #### Misc
 - [PatZilla] - A modular patent information research platform and data integration toolkit with a modern user interface and access to multiple data sources.
 - [Vasuki] - Vasuki generates different kinds of random unique identifiers, tokens and words. Aims to make identifier generation effortless.
-- [Pycom MicroPython] - The firmware powering Pycom devices, a fork of MicroPython.
 - [Shaka Packager] - A media packaging and development framework for VOD and Live DASH and HLS applications, which is part of the infrastructure powering YouTube.
-
+- [Pycom MicroPython] - The firmware powering Pycom devices, a fork of MicroPython.
+- [lovely.testlayers] - Testlayers for Python's unittest and zope.testrunner.
 
 [Kotori]: https://github.com/daq-tools/kotori
 [PatZilla]: https://github.com/ip-tools/patzilla
@@ -43,6 +47,9 @@ Receiving contributions to any of them makes me happy. Enjoy!
 [Shaka Packager]: https://github.com/google/shaka-packager
 [Vasuki]: https://github.com/daq-tools/vasuki
 [Pycom MicroPython]: https://github.com/pycom/pycom-micropython-sigfox
+[discodoc]: https://github.com/panodata/discodoc
+[github-to-discourse]: https://github.com/huw/github-to-discourse
+[lovely.testlayers]: https://github.com/lovelysystems/lovely.testlayers
 
 <!--
 **amotl/amotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

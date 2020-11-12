@@ -33,6 +33,7 @@ Receiving contributions to any of them makes me happy. Enjoy!
 - [Shaka Packager] - A media packaging and development framework for VOD and Live DASH and HLS applications, which is part of the infrastructure powering YouTube.
 - [Pycom MicroPython] - The firmware powering Pycom devices, a fork of MicroPython.
 - [lovely.testlayers] - Testlayers for Python's unittest and zope.testrunner.
+- [xmpppy] - Python 2/3 implementation of XMPP (RFC3920, RFC3921).
 
 [Kotori]: https://github.com/daq-tools/kotori
 [PatZilla]: https://github.com/ip-tools/patzilla
@@ -50,6 +51,7 @@ Receiving contributions to any of them makes me happy. Enjoy!
 [discodoc]: https://github.com/panodata/discodoc
 [github-to-discourse]: https://github.com/huw/github-to-discourse
 [lovely.testlayers]: https://github.com/lovelysystems/lovely.testlayers
+[xmpppy]: https://github.com/xmpppy/xmpppy
 
 <!--
 **amotl/amotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
